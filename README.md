@@ -201,5 +201,3 @@ This project is MIT Licensed. Feel free to use and modify it.
 
 🚀 **Thank you for using HireMate AI! Happy Hiring!** 🎉
 ```
-
-This README file is now properly formatted with headings, indentation, and code blocks. You can copy and paste it directly into your project's `README.md` file.
